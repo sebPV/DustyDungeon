@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "c5596f19-d36b-4cb1-9150-996cf4d31fee",
-            "Value": {
-                "id": "9f794d69-6a00-43b1-945f-b2778d28734e",
-                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cbac7651-4c47-4d9b-b491-78c2778ff0b1",
             "Value": {
                 "id": "3b6ffc96-ef8b-4d5c-9c10-3004f65ca9cc",
