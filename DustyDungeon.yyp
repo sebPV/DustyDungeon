@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "759fc871-f05b-4a83-9217-ef2d4dc9f500",
+            "Value": {
+                "id": "572f523d-ab20-4eda-be02-3086441696ee",
+                "resourcePath": "sprites\\spr_mob_rotte\\spr_mob_rotte.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8184e9b8-d999-46de-9272-8b04a8311e0e",
             "Value": {
                 "id": "660fdfe3-ee53-4d5a-a191-df9378e610f6",
